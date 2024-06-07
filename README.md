@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chirag</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [onlinecompiler](chirag640.github.io/code-editor/)
 
 - 👨‍💻 All of my projects are available at [cmd-portfolio-two.vercel.app](cmd-portfolio-two.vercel.app)
 
