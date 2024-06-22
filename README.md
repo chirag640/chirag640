@@ -3,6 +3,7 @@
 
 
 - 👨‍💻 All of my projects are available at [cmd-portfolio-two.vercel.app](cmd-portfolio-two.vercel.app)
+- 👨‍💻 All of my projects are available at **cmd-portfolio-two.vercel.app**
 
 - 📫 How to reach me **chaudharychirag640@gmail.com**
 
