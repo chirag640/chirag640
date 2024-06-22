@@ -2,7 +2,6 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 
-- 👨‍💻 All of my projects are available at [cmd-portfolio-two.vercel.app](cmd-portfolio-two.vercel.app)
 - 👨‍💻 All of my projects are available at <a href="https://cmd-portfolio-two.vercel.app" target="blank">Portfolio</a>
 
 - 📫 How to reach me **chaudharychirag640@gmail.com**
