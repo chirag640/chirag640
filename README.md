@@ -96,12 +96,3 @@
 </td>
 </tr>
 </table>
-
-
-<div align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/chirag640/chirag640/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/chirag640/chirag640/output/github-contribution-grid-snake.svg">
-<img alt="GitHub Contribution Snake Animation" src="https://www.google.com/search?q=https://raw.githubusercontent.com/chirag640/chirag640/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
-</div>
