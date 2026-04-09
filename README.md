@@ -15,9 +15,6 @@
 
   <br>
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=chirag640&theme=tokyonight&margin-w=15&column=7" alt="GitHub Trophies" />
-  </a>
 </div>
 
 ---
@@ -100,35 +97,6 @@
 </tr>
 </table>
 
-<h2><img src="https://slackmojis.com/emojis/13387-gokurun/download" width="30"> <b>Current Quests (Featured Projects)</b></h2>
-
-<div align="center">
-<a href="https://www.google.com/search?q=https://github.com/chirag640/flutter-blueprint-cli">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dchirag640%26repo%3Dflutter-blueprint-cli%26theme%3Dtokyonight%26title_color%3D00FFCC" alt="Flutter Blueprint CLI" width="48%" />
-</a>
-<a href="https://www.google.com/search?q=https://github.com/chirag640/nestjs-automation">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dchirag640%26repo%3Dnestjs-automation%26theme%3Dtokyonight%26title_color%3D00FFCC" alt="NestJS Automation" width="48%" />
-</a>
-</div>
-
-<h2><img src="https://slackmojis.com/emojis/37554-charmander/download" width="30"> <b>GitHub Power Level</b></h2>
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dchirag640%26theme%3Dtokyonight%26hide_border%3Dfalse%26include_all_commits%3Dtrue%26count_private%3Dtrue%26title_color%3D00FFCC%26icon_color%3D00FFCC" alt="GitHub Stats" width="49%"/>
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/wakatime%3Fusername%3Dchirag640%26theme%3Dtokyonight%26layout%3Dcompact%26title_color%3D00FFCC" alt="WakaTime Stats" width="49%"/>
-</div>
-
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://nirzak-streak-stats.vercel.app/%3Fuser%3Dchirag640%26theme%3Dtokyonight%26hide_border%3Dfalse%26title_color%3D00FFCC" alt="GitHub Streak" width="100%"/>
-</div>
-
-<div align="center">
-<a href="https://www.google.com/search?q=https://spotify-github-profile.vercel.app/api/view%3Fuid%3DYOUR_SPOTIFY_UID%26cover_image%3Dtrue%26theme%3Dtokyonight%26show_offline%3Dfalse%26background_color%3D1a1b26%26interchange%3Dtrue">
-<img src="https://www.google.com/search?q=https://spotify-github-profile.vercel.app/api/view%3Fuid%3DYOUR_SPOTIFY_UID%26cover_image%3Dtrue%26theme%3Dtokyonight%26show_offline%3Dfalse%26background_color%3D1a1b26%26interchange%3Dtrue" alt="Spotify Now Playing" />
-</a>
-</div>
 
 <div align="center">
 <picture>
